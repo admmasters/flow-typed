@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "babel-eslint": "^6.1.0",
-    "eslint": "^3.0.1"
+    "babel-eslint": "^8.0.2",
+    "eslint": "^5.5.0"
   },
   "devDependencies": {
     "eslint-plugin-flow-typed": "^1.0.0"
